@@ -1,4 +1,5 @@
-print('Hello World')
-print('Hey Howdy!!!')
-print('Greeting')
-print('Hello Jenkins, How r u today?')
+print('Basic Calculater')
+num1 = 10
+num2 = 15
+result = num1 + num2
+print('Result = ',result)
